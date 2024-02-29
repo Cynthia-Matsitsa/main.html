@@ -1,0 +1,23 @@
+#container{
+    word-spacing: 12px;
+    text-align: center;
+}
+#image{
+    width: 45%;
+    height: 25%;
+   
+    
+  
+    
+}
+#body{
+    border: 1px solid;
+    border-radius: 60px 60px 60px 60px;
+    background-color:peru;
+    margin: auto;
+    
+}
+
+.maindiv{
+    margin-left: 40%;
+}
